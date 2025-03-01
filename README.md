@@ -14,9 +14,9 @@ The Showroom Management System is a Java-based application designed to manage sh
 
 # How to run the project
 1. Open the Terminal in VS Code 
-2. Navigate to the src directory :  ```bash  cd src```
-3. Compile the java files : ```bash  javac Main.java -d ../out ```
-4. Run the program : ```bash java -cp ../out Main```
+2. Navigate to the src directory :  ```cd src```
+3. Compile the java files : ```  javac Main.java -d ../out ```
+4. Run the program : ```java -cp ../out Main```
 
  
 
