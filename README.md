@@ -3,16 +3,26 @@
 The Showroom Management System is a Java-based application designed to manage showrooms, employees, and cars through a user-friendly, menu-driven interface.
 
 # How to use
-1st : Click CODE button and download zip file.
+1. Click CODE button and download zip file.
 
-2nd : Right click on zip folder then click Extract all.
+2. Right click on zip folder then click Extract all.
 
-3rd : Open ShowroomManagement folder in vscode
+3. Open ShowroomManagement folder in vscode
 
 # How to run the project
 1. Open the Terminal in VS Code 
-2. Navigate to the src directory:
+2. Navigate to the src directory :
+   
 ``` cd src```
+3.Compile the Java files :
+
+``` javac Main.java -d ../out ```
+4.Run the program :
+```java -cp ../out Main```
+# Structure of the folder
+```plaintext javaooptutorial/ ├── src/ │ └── Main.java └── out/ ```
+
+
 
    
       
