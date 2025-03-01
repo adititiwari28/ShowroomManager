@@ -14,11 +14,14 @@ The Showroom Management System is a Java-based application designed to manage sh
 2. Navigate to the src directory :
    
 ``` cd src```
+
 3.Compile the Java files :
 
 ``` javac Main.java -d ../out ```
+
 4.Run the program :
 ```java -cp ../out Main```
+
 # Technologies Used
 1.    JAVA
 
